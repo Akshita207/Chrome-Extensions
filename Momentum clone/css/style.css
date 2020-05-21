@@ -1,0 +1,34 @@
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	color: lightgrey;
+	font-size: 150px;
+	font-family: Pacifico;
+}
+
+input {
+	height: 40px;
+	width: 350px;
+}
+
+.text-container {
+	position: absolute;
+	top: 10%;
+	width: 100%;
+}
+
+.text-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
